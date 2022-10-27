@@ -1,3 +1,3 @@
-<img src="https://projecteuler.net/profile/tvarnier.png">
+[Project Euler](https://projecteuler.net/archives)
 
-[projecteuler.net](https://projecteuler.net/archives)
+<img src="https://projecteuler.net/profile/tvarnier.png">
