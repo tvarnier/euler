@@ -1,3 +1,5 @@
+## Quadratic primes
+<br>
 <p>Euler discovered the remarkable quadratic formula:</p>
 <p class="center">$n^2 + n + 41$</p>
 <p>It turns out that the formula will produce 40 primes for the consecutive integer values $0 \le n \le 39$. However, when $n = 40, 40^2 + 40 + 41 = 40(40 + 1) + 41$ is divisible by 41, and certainly when $n = 41, 41^2 + 41 + 41$ is clearly divisible by 41.</p>

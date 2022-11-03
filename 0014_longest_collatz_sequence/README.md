@@ -1,3 +1,5 @@
+## Longest collatz sequence
+<br>
 <p>The following iterative sequence is defined for the set of positive integers:</p>
 <p class="margin_left"><var>n</var> → <var>n</var>/2 (<var>n</var> is even)<br /><var>n</var> → 3<var>n</var> + 1 (<var>n</var> is odd)</p>
 <p>Using the rule above and starting with 13, we generate the following sequence:</p>
