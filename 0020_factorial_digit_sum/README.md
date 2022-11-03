@@ -1,0 +1,1 @@
+b'<p><i>n</i>! means <i>n</i> \xc3\x97 (<i>n</i> \xe2\x88\x92 1) \xc3\x97 ... \xc3\x97 3 \xc3\x97 2 \xc3\x97 1</p>\n<p>For example, 10! = 10 \xc3\x97 9 \xc3\x97 ... \xc3\x97 3 \xc3\x97 2 \xc3\x97 1 = 3628800,<br />and the sum of the digits in the number 10! is 3 + 6 + 2 + 8 + 8 + 0 + 0 = 27.</p>\n<p>Find the sum of the digits in the number 100!</p>\n\n'
