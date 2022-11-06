@@ -10,5 +10,6 @@ for file in os.listdir(rootdir):
                 with open("./" + d + "/README.md", 'w') as f:
                     proc = subprocess.Popen(["curl", "https://projecteuler.net/minimal=" + d[:4]], stdout=subprocess.PIPE)
                     (out, err) = proc.communicate()
-                    f.write("## " + d[5:].replace("_", " ").capitalize() + "\n<br>\n" + out.decode("utf-8"))
+                    title = d[5:].replace("_", " ")
+                    f.write("## " + title[0].upper() + title[1:] + "\n<br>\n" + out.decode("utf-8"))
                     f.close()
